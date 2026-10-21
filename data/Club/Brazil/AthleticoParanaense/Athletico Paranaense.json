@@ -1,0 +1,19 @@
+{
+	"schema_version": 1,
+	"id": "official:bra_pr:athletico_paranaense",
+	"code": "BR-CAP",
+	"full_name": "Clube Athletico Paranaense",
+	"name": "Athletico Paranaense",
+	"short_name": "CAP",
+	"nickname": ["CAP", "Furacão"],
+	"country_code": "BRA",
+	"founded_at": "1924-03-26",
+	"colours": {
+	 "Primary": "#9b1217",
+	 "secondary": "#1b1819",
+	 "tertiary": "#FFFFFF"
+	 },
+	"crest": "official_bra_pr_atletico_paranaense.png",
+	"status": "active"
+	
+}

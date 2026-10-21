@@ -3,7 +3,7 @@
 	"id": "official:bra:national_league_1",
 	"Code": "BrazilLeague1",
 	"name": "Brasilerão Serie A",
-	"contry_code": "BRA",
+	"country_code": "BRA",
 	"crest": "official:bra:national_league_1.png",
 	
 	"points_win": 3,

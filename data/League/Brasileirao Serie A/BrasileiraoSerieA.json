@@ -1,0 +1,16 @@
+{
+	"schema_version": 1,
+	"id": "official:bra:national_league_1",
+	"Code": "BrazilLeague1",
+	"name": "Brasilerão Serie A",
+	"contry_code": "BRA",
+	"crest": "official:bra:national_league_1.png",
+	
+	"points_win": 3,
+	"points_draw": 1,
+	"relegation_slots": 4,
+	"promotion_slots": 5,
+	"tiebreakers": ["Most_wins","Best_goal_difference",
+	"Most_goals_scored","Head_to_head_record","Fewest_red_cards",
+	"Fewest_yellow_cards","Drawing_of_lots"]
+}

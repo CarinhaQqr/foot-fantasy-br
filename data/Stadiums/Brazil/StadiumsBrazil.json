@@ -1,0 +1,27 @@
+{
+	"schema_version":1,
+	"stadiums":[
+		{
+			"id":"official:bra_rj:maracana",
+			"full_name": "Estadio Jornalista Mario Filho",
+			"name": "Maracana",
+			"naming_rights":null,
+			"capacity":78838,
+			"inauguration":1950,
+			"owner_id":null,
+			"pitch_type": "mix",
+			"pitch_condition":3
+		},
+		{
+			"id":"official:bra_pr:ar_baixada",
+			"full_name": "Estadio Mario Celso Petraglia",
+			"name": "Arena da Baixada",
+			"naming_rights":null,
+			"capacity":42372,
+			"inauguration":1913,
+			"owner_id":"official:bra_pr:athletico_paranaense",
+			"pitch_type": "synthetic",
+			"pitch_condition":4
+		}
+	]	
+}

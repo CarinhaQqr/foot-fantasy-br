@@ -4,13 +4,17 @@
 	"Code": "BrazilLeague1",
 	"name": "Brasilerão Serie A",
 	"country_code": "BRA",
-	"crest": "official:bra:national_league_1.png",
+	"crest": "official_bra_national_league_1.png",
 	
-	"points_win": 3,
-	"points_draw": 1,
-	"relegation_slots": 4,
-	"promotion_slots": 5,
-	"tiebreakers": ["Most_wins","Best_goal_difference",
-	"Most_goals_scored","Head_to_head_record","Fewest_red_cards",
-	"Fewest_yellow_cards","Drawing_of_lots"]
+	"points_win":3,
+	"points_draw":1,
+	"relegation_slots":4,
+	"promotion_slots":5,
+	"tiebreakers": ["most_wins","best_goal_difference",
+	"most_goals_scored","head_to_head_record","fewest_red_cards",
+	"fewest_yellow_cards","drawing_of_lots"],
+	"teams_per_season":20,
+	
+	"current_teams": ["official:bra_pr:athletico_paranaense_team_male"]
+	
 }

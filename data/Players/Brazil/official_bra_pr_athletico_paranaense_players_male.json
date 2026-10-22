@@ -1,0 +1,115 @@
+{
+	"schema_version": 1,
+	"team_id": "official:bra_pr:athletico_paranaense_team_male",
+	"players":[
+		{
+			"full_name":"Mycael Pontes Moreira",
+			"name":"Mycael",
+			"birthday_date":"2004-03-12",
+			"country_code":"BRA",
+			"height":191,
+			"foot":"left",
+			"gender":"male",
+			"skin_tone":"#A",
+			
+			"positions":["GK"],
+			"favorite_number":1,
+			"number":1,
+	
+			 "skills":{
+			  "pace":{
+				"speed":30
+			  },
+			  "shooting":{
+				"finishing":10,
+				"penalties":15
+			  },
+			  "passing":{
+				"vision":28,
+				"passing":25
+			  },
+			  "dribbling":{
+				"agility":5,
+				"dribbling":8
+			  },
+			  "defending":{
+				"interceptions":45,
+				"defense":42
+			  },
+			  "physical": {
+				"strength":76,
+				"stamina":71
+			  },
+			  "goalkeeping":{
+				"diving":70,
+				"reflexes":64
+			  }
+			},
+			"potential": 3,
+		
+			"youth_team":"official:bra_pr:athletico_paranaense_team_male",
+			"contract":{
+				"salary":4160,
+				"market_value":5000000,
+				"contract_expire":"2028-02-27",
+				"loan_team":null,
+				"loan_expire":null
+			}
+		},
+		
+		{
+			"full_name":"Aderbar Melo dos Santos Neto",
+			"name":"Santos",
+			"birthday_date":"1990-03-17",
+			"country_code":"BRA",
+			"height":188,
+			"foot":"right",
+			"gender":"male",
+			"skin_tone":"#8",
+			
+			"positions":["GK"],
+			"favorite_number":1,
+			"number":23,
+	
+			 "skills":{
+			  "pace":{
+				"speed":12
+			  },
+			  "shooting":{
+				"finishing":7,
+				"penalties":8
+			  },
+			  "passing":{
+				"vision":18,
+				"passing":22
+			  },
+			  "dribbling":{
+				"agility":3,
+				"dribbling":7
+			  },
+			  "defending":{
+				"interceptions":30,
+				"defense":27
+			  },
+			  "physical": {
+				"strength":55,
+				"stamina":63
+			  },
+			  "goalkeeping":{
+				"diving":54,
+				"reflexes":55
+			  }
+			},
+			"potential": 1,
+		
+			"youth_team":"official:bra_pr:athletico_paranaense_team_male",
+			"contract":{
+				"salary":10000,
+				"market_value":400000,
+				"contract_expire":"2026-12-31",
+				"loan_team":"official:bra_ce:fortaleza_team_male",
+				"loan_expire":"2026-12-31"
+			}
+		}
+	]
+}

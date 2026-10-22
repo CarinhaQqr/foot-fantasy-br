@@ -14,6 +14,10 @@ config/name="FootFantasyBR"
 config/features=PackedStringArray("4.7", "C#", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+Database="*res://scripts/autoload/Database.cs"
+
 [display]
 
 window/stretch/mode="canvas_items"

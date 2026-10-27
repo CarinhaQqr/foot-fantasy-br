@@ -76,4 +76,3 @@ public partial class Database : Node
 		CloseDatabase();
 	}
 }
-
